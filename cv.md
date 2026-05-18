@@ -13,3 +13,18 @@
 ## **Уровень английского:** B1
 
 
+## Пример кода
+```javascript
+function calculateSum(numbers) {
+    return numbers.reduce((total, num) => total + num, 0);
+}
+
+console.log(calculateSum([1, 2, 3, 4, 5])); // 15
+
+## Навыки можличностного общения
+- Коммуникация и работа в команде
+- Решение проблем
+- Управление временем
+- Адаптивность
+
+
